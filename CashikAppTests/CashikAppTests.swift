@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import CashikApp
+@testable import Cashik
 
 final class CashikAppTests: XCTestCase {
 
